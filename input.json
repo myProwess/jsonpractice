@@ -1,0 +1,34 @@
+{
+  "companyName": "TechCorp",
+  "headquarters": {
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "departments": [
+    {
+      "deptName": "Engineering",
+      "employees": [
+        {
+          "firstName": "John",
+          "lastName": "Doe",
+          "role": "Developer"
+        },
+        {
+          "firstName": "Jane",
+          "lastName": "Smith",
+          "role": "Manager"
+        }
+      ]
+    },
+    {
+      "deptName": "Sales",
+      "employees": [
+        {
+          "firstName": "Peter",
+          "lastName": "Jones",
+          "role": "Sales Rep"
+        }
+      ]
+    }
+  ]
+}
