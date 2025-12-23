@@ -1,4 +1,4 @@
-package requests;
+package requests.org.json;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
